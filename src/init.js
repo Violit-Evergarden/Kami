@@ -8,3 +8,5 @@ export function initMixin(Kami){//给Kami增加一个init方法
   }
 }
 
+
+
